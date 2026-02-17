@@ -8,7 +8,7 @@
     "start": "node anti-bug-bot.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0",
+    "@whiskeysockets/baileys": "latest",
     "@hapi/boom": "^10.0.1",
     "pino": "^9.0.0"
   }
