@@ -1,0 +1,15 @@
+{
+  "name": "anti-bug-bot-pro",
+  "version": "2.1.0",
+  "description": "Anti-Bug Bot PRO v2.1 - Pairing Code Edition by Mr. Emmanuel 🌹",
+  "main": "anti-bug-bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node anti-bug-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^9.0.0"
+  }
+}
