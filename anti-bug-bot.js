@@ -3,8 +3,8 @@ const { Boom } = require('@hapi/boom');
 const pino = require('pino');
 const fs = require('fs');
 
-const PHONE_NUMBER = '2347012345678';           // ← CHANGE TO YOUR NUMBER (only digits, no + or spaces)
-const OWNER = PHONE_NUMBER + '@s.whatsapp.net';
+const PHONE_NUMBER = '2349060245012';           // ← CHANGE TO YOUR NUMBER (only digits, no + or spaces)
+const OWNER = PHONE_NUMBER + '2349060245012@s.whatsapp.net';
 
 const AUTH_FOLDER = './auth_info';
 
